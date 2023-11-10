@@ -1,2 +1,2 @@
 # NGramLM
-Simple language model using N-Gram models with NLTK framework
+Simple N-Gram language model that utilizes the NLTK framework
